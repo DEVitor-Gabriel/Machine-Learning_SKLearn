@@ -7,7 +7,8 @@ Falamos que uma máquina “aprende” com os dados quando ela consegue melhorar
 
 Os problemas de Machine Learning são divididos em três subáreas principais:
 
-#Classificação: 
+#Classificação:
+
 baseia-se em prever a categoria de uma observação dada. Aqui, procura-se estimar um “classificador” que gere como saída a classificação qualitativa de um dado não observado com base em dados de entrada (que abrangem observações com classificações já definidas).
 Exemplo: um classificador que utilize dados não observados de um paciente e classifique-o como doente ou não-doente.
 
